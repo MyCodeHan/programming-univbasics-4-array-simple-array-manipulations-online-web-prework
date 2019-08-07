@@ -1,1 +1,3 @@
 def 
+  array.push
+end
